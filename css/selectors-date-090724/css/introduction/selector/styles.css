@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* universal selector */
+/* This below universal selector has been commented off to avoid conflicts */
+/* * { 
+	color: purple;
+	font-size: 30px;
+} */
+
+* {font-size: 25px;}
+
+
+/* type-selector */
+
+/* div {color:green} */
+
+/* class-selector */
+
+.alert-text {color:red;}
+
+/* id-selector */
+
+#title {background-color: black;}
+
+/* Grouping selectors */
+
+.read, .unread {color:yellow; background-color: black;}
+
+/* chaining selectors */
+
+.subsection.header {color:red;}
+.subsection#preview {color: blue;}
