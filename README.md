@@ -9,6 +9,14 @@ Link to the Odin project Dashboard page: https://www.theodinproject.com/dashboar
 Daily practice notes:
 ----------------------------------------------------------------------------------------------------------------------------------------
 09-07-24: Understood CSS Syntax, CSS selectors and how to group various selectors.
+----------------------------------------------------------------------------------------------------------------------------------------
+Wednesday 17 July 2024 02:44:22 PM IST completed the intro to CSS, practiced CSS selectors adding properties and values. 
+
+
+
+
+
+
 
 
 
