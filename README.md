@@ -11,3 +11,4 @@ Daily practice notes:
 09-07-24: Understood CSS Syntax, CSS selectors and how to group various selectors.
 
 
+
