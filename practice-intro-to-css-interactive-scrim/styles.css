@@ -56,4 +56,32 @@ h1 {
 //      -- remove underline
 */
 
+/* solutions to challenge -3 */
+
+ul li h2 {
+        font-size: 16px;
+}  
+
+recipe-card a {
+    background-color: #fc9400;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
