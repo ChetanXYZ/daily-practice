@@ -1,0 +1,29 @@
+/* rule 1 */
+#subsection {
+    background-color: yellow;
+    color: blue;
+}
+
+/* rule 2 */
+.main #subsection {
+    color: red;
+}
+
+#parent {
+    color: red;
+}
+
+.child {
+    color: blue;
+}
+
+/* rule 3 */
+.alert {
+    color: red;
+    font-size: 50px;
+    background-color: black;
+}
+
+.warning {
+    color: yellow;
+}
