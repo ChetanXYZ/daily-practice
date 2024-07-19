@@ -12,8 +12,10 @@ Daily practice notes:
 ----------------------------------------------------------------------------------------------------------------------------------------
 Wednesday 17 July 2024 02:44:22 PM IST: completed the intro to CSS, practiced CSS selectors adding properties and values. 
 ----------------------------------------------------------------------------------------------------------------------------------------
-Thursday 18 July 2024 11:55:30 AM IST: Completed the third challenge of the https://v2.scrimba.com/s04sug7 
-
+Thursday 18 July 2024 11:55:30 AM IST: completed the third challenge of the https://v2.scrimba.com/s04sug7 
+----------------------------------------------------------------------------------------------------------------------------------------
+Friday 19 July 2024 02:03:02 PM IST: worked on the css cascade specificity files.  
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 
