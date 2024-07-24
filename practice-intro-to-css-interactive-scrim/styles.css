@@ -1,3 +1,17 @@
+/* styles */
+/* ========== Learning specificity ================ 
+
+// Type selectors   | value: 0,0,1      | e.g. img
+// Class selectors  | value: 0,1,0      | e.g. .recipe-card
+// Id selectors     | value: 1,0,0      | e.g. #container 
+
+/* =========== CHALLENGE 1 ========================= //
+// Change the background color of the recipe-card
+//      -- the style must be above the .recipe-card selector
+//      -- you cannot edit the .recipe-card rule
+*/
+
+
 * {
 line-height: 1.5;
 }
@@ -26,6 +40,7 @@ ul {
 
 h1 {
     color: darkred;
+    text-transform: uppercase;
 }
 
 /* ========== CHALLENGE 2 ========== //
@@ -37,6 +52,12 @@ h1 {
 //
 */
 
+/* Challenge 1 style */
+/* Changed the background color of the recipe card to yellow */
+/* This style was commented off to make room for other challenges */
+/*.container .feature {
+    background-color: yellow ;
+}*/
 .recipe-card {
     width: 400px;
     background-color: #FFFAFA;
