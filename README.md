@@ -20,7 +20,8 @@ Wednesday 24 July 2024 03:08:39 PM IST: Worked on few more challenges to learn a
 ----------------------------------------------------------------------------------------------------------------------------------------
 Friday 26 July 2024 01:22:53 PM IST: Created a new sub-directory(DOMvsHTML) and added a index.html to practice tools mentioned in this vvideo. https://www.youtube.com/watch?v=J-02VNxE7lE
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+Saturday 27 July 2024 11:50:18 PM IST: Practiced VIMTUTOR and vim keybindings.
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 
