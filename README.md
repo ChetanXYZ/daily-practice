@@ -24,3 +24,5 @@ Saturday 27 July 2024 11:50:18 PM IST: Practiced VIMTUTOR and vim keybindings.
 ----------------------------------------------------------------------------------------------------------------------------------------
 Tuesday 30 July 2024 02:51:59 PM IST: Completed an overview of chrome devtools link: https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css
 ----------------------------------------------------------------------------------------------------------------------------------------
+Friday 02 August 2024 02:33:34 PM IST: Finished the box model maing page currently working on the third assignement. 
+----------------------------------------------------------------------------------------------------------------------------------------
